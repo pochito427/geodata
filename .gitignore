@@ -108,4 +108,4 @@ venv.bak/
 *.sqlite3
 
 # Templates for GitHub
-*.-Template.md
+*-Template.md
