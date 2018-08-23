@@ -64,7 +64,7 @@ it is good for testing.
 If you want to try this with the API key, follow the
 instructions at:
 
-[Google Mpas Geocoding Documentation](https://developers.google.com/maps/documentation/geocoding/intro)
+[Google Maps Geocoding Documentation](https://developers.google.com/maps/documentation/geocoding/intro)
 
 and put the API key in the code.
 
@@ -170,7 +170,7 @@ If you want to contribute, feel free to fork the pythonlearn repository and send
 
 ## License
 
-This project is Copyright 2010-  [Charles R. Severance](www.dr-chuck.com) of the [University of Michigan School of Information](open.umich.edu) and made available under a Creative Commons Attribution 4.0 License - see the [LICENSE.md](LICENSE.md) file for details
+This project is Copyright 2010-  Charles R. Severance (www.dr-chuck.com) of the University of Michigan School of Information and open.umich.edu and made available under a Creative Commons Attribution 4.0 License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
 
